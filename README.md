@@ -23,6 +23,7 @@ End-to-end or drafting-focused tools authors use to plan, write, and prepare boo
 
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - End-to-end book workspace: plan and draft full manuscripts, Manuscript Rewrite in the author’s voice, series story bible, cover + title engine, and export to EPUB, Word, and Markdown.
 - ⭐ [Sudowrite](https://www.sudowrite.com/) - AI fiction suite with expand, describe, and rewrite tools popular with novelists before KDP formatting.
+- [AI eBook Pro](https://aiebookpro.com/) - One-sentence idea to full non-fiction eBook with outline, chapters, cover, and PDF, EPUB, and DOCX export.
 - [Bookwiz](https://bookwiz.io/) - AI book writer aimed at KDP-ready EPUB, print PDF, cover, and listing assets.
 - [CoAuthor](https://coauthor.ai/) - Research-to-publish workflow with competitor insights, drafting agents, cover, and multi-platform export including KDP.
 - [Chaptrly](https://chaptrly.com/) - AI book production pipeline with reviews and KDP-spec DOCX exports for ebook, paperback, and hardcover.
