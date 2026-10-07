@@ -2,7 +2,7 @@
 
 > A curated list of AI tools for Amazon KDP and self-publishing authors.
 
-Tools that help indie authors research niches, draft and rewrite manuscripts, format interiors, design covers and titles, and ship upload-ready files for Kindle Direct Publishing — focused on book publishing, not generic ad copy.
+Tools that help indie authors research niches, draft and rewrite manuscripts, format interiors, design covers and titles, and ship upload-ready files for Kindle Direct Publishing, focused on book publishing, not generic ad copy.
 
 ⭐ = recommended pick for KDP / self-publishing authors.
 
@@ -15,6 +15,7 @@ Tools that help indie authors research niches, draft and rewrite manuscripts, fo
 - [Covers, Titles & Listing Assets](#covers-titles--listing-assets)
 - [Distribution & Reader Delivery](#distribution--reader-delivery)
 - [General AI Assistants](#general-ai-assistants)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ## AI Writing & Publishing Suites
@@ -31,6 +32,7 @@ End-to-end or drafting-focused tools authors use to plan, write, and prepare boo
 - [Squibler](https://www.squibler.io/) - Book writing platform with AI drafting, outlines, and manuscript organization.
 - [Inkfluence AI](https://inkfluenceai.com/) - AI book creation with formatting and audiobook options aimed at self-publishers.
 - [AIWriteBook](https://aiwritebook.com/) - AI book generator with KDP-oriented exports and narration options.
+- [kdpbook.io](https://kdpbook.io/) - Chat-based book studio that produces a KDP print PDF, cover, Kindle eBook, and listing copy.
 - [NovelCrafter](https://www.novelcrafter.com/) - Novel planning and prose workspace with AI assist and strong series/codex support.
 
 ## Keyword, Category & Market Research
@@ -85,10 +87,17 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 - [ChatGPT](https://openai.com/chatgpt/overview) - General AI chatbot for brainstorming titles, keywords, and scene variants.
 - [Google Gemini](https://gemini.google.com/) - Multimodal assistant for research, outlines, and drafting support.
 
+## Related Lists
+
+- [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
+- [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
+- [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
+- [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+
 ## Contributing
 
-PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to KDP / self-publishing authors, with official links and one-line blurbs.
+PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to KDP / self-publishing authors, with official links and one-line blurbs.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[CC0 1.0 Universal](LICENSE), public domain dedication.
