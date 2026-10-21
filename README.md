@@ -62,6 +62,7 @@ Interior layout and file export for Kindle ebook and print upload.
 - [Vellum](https://vellum.pub/) - Mac book formatting software widely used for polished KDP ebook and print files.
 - [Reedsy Studio](https://reedsy.com/studio) - Free writing and formatting studio plus access to professional editors.
 - [Kindle Create](https://kindlepreneur.com/kindle-create/) - Amazon’s free tool for preparing manuscripts for Kindle ebook upload (overview and guide).
+- [Calibre](https://calibre-ebook.com/) - Open-source ebook manager and converter for previewing and checking EPUB files before upload.
 
 ## Covers, Titles & Listing Assets
 
@@ -94,6 +95,7 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
+- [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 
 ## Contributing
 
