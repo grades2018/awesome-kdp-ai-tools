@@ -71,6 +71,7 @@ Visual and copy tools for covers, titles, blurbs, and listing graphics.
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Built-in cover and title engine for unique covers and high-converting title ideas matched to the manuscript.
 - [Canva](https://www.canva.com/) - Design tool with AI image/text helpers for covers, ads, and A+ content graphics.
 - [BookBrush](https://bookbrush.com/) - Author-focused graphics studio for 3D covers, mockups, and promo images.
+- [CoverNice](https://covernice.com/) - KDP cover calculator and wrap builder: spine width, full wrap size and 300 dpi pixel dimensions from trim size, page count and paper stock, with print-ready PDF export.
 
 ## Distribution & Reader Delivery
 
