@@ -80,6 +80,7 @@ Helpers for wide distribution and ARC / reader-magnet delivery around a KDP laun
 - [Draft2Digital](https://www.draft2digital.com/) - Wide distribution aggregator many KDP authors use alongside Amazon.
 - [BookFunnel](https://www.bookfunnel.com/) - Delivery and promotion platform for ARCs, reader magnets, and direct downloads.
 - [Amazon KDP](https://kdp.amazon.com/) - Amazon’s official Kindle Direct Publishing dashboard for ebook and print uploads.
+- [Lulu](https://www.lulu.com/) - Print-on-demand and retail distribution, often used for hardcovers and direct sales alongside KDP.
 
 ## General AI Assistants
 
@@ -97,6 +98,7 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
+- [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
 
 ## Contributing
 
