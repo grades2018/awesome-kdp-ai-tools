@@ -71,6 +71,7 @@ Visual and copy tools for covers, titles, blurbs, and listing graphics.
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Built-in cover and title engine for unique covers and high-converting title ideas matched to the manuscript.
 - [Canva](https://www.canva.com/) - Design tool with AI image/text helpers for covers, ads, and A+ content graphics.
 - [BookBrush](https://bookbrush.com/) - Author-focused graphics studio for 3D covers, mockups, and promo images.
+- [Placeit](https://placeit.net/) - Mockup generator for showing a cover on phones, tablets, and printed books in ads.
 - [CoverNice](https://covernice.com/) - KDP cover calculator and wrap builder: spine width, full wrap size and 300 dpi pixel dimensions from trim size, page count and paper stock, with print-ready PDF export.
 
 ## Distribution & Reader Delivery
@@ -79,6 +80,7 @@ Helpers for wide distribution and ARC / reader-magnet delivery around a KDP laun
 
 - [Draft2Digital](https://www.draft2digital.com/) - Wide distribution aggregator many KDP authors use alongside Amazon.
 - [BookFunnel](https://www.bookfunnel.com/) - Delivery and promotion platform for ARCs, reader magnets, and direct downloads.
+- [StoryOrigin](https://storyoriginapp.com/) - Reader magnet delivery, newsletter swaps, and group promos for growing a mailing list around a launch.
 - [Amazon KDP](https://kdp.amazon.com/) - Amazon’s official Kindle Direct Publishing dashboard for ebook and print uploads.
 - [Lulu](https://www.lulu.com/) - Print-on-demand and retail distribution, often used for hardcovers and direct sales alongside KDP.
 
@@ -99,6 +101,7 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
+- [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Drafting, designing, and delivering ebooks that grow an email list.
 
 ## Contributing
 
