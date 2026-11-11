@@ -83,6 +83,7 @@ Helpers for wide distribution and ARC / reader-magnet delivery around a KDP laun
 - [StoryOrigin](https://storyoriginapp.com/) - Reader magnet delivery, newsletter swaps, and group promos for growing a mailing list around a launch.
 - [Amazon KDP](https://kdp.amazon.com/) - Amazon’s official Kindle Direct Publishing dashboard for ebook and print uploads.
 - [Lulu](https://www.lulu.com/) - Print-on-demand and retail distribution, often used for hardcovers and direct sales alongside KDP.
+- [BookBub Partners](https://partners.bookbub.com/) - Featured Deals, ads, and new-release alerts for reaching readers after a KDP launch.
 
 ## General AI Assistants
 
@@ -94,6 +95,7 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
