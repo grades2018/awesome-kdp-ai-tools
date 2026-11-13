@@ -63,6 +63,7 @@ Interior layout and file export for Kindle ebook and print upload.
 - [Reedsy Studio](https://reedsy.com/studio) - Free writing and formatting studio plus access to professional editors.
 - [Kindle Create](https://kindlepreneur.com/kindle-create/) - Amazon’s free tool for preparing manuscripts for Kindle ebook upload (overview and guide).
 - [Calibre](https://calibre-ebook.com/) - Open-source ebook manager and converter for previewing and checking EPUB files before upload.
+- [Book Page Count and KDP Spine Estimator](https://grades2018.github.io/book-page-count-estimator/) - Free browser calculator that turns a word count into an estimated page count, KDP spine width, and full cover wrap size. By this list's curator.
 
 ## Covers, Titles & Listing Assets
 
