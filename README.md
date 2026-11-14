@@ -106,6 +106,7 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
 - [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Drafting, designing, and delivering ebooks that grow an email list.
 - [Awesome AI Graded Readers](https://github.com/grades2018/awesome-ai-graded-readers) - Tools and resources for creating and reading graded readers for language learners.
+- [Awesome Markdown to Book](https://github.com/grades2018/awesome-markdown-to-book) - Tools for turning a Markdown manuscript into EPUB, print PDF, or a web book.
 
 ## Contributing
 
