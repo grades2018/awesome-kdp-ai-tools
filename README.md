@@ -52,6 +52,7 @@ Line editing, style checks, and rewrite helpers before you upload to KDP.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Grammarly](https://www.grammarly.com/) - Grammar and clarity checking for drafts, blurbs, and author bios.
 - [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI manuscript feedback on plot, pacing, and character for fiction.
+- [Revise AI](https://www.revise.net/) - AI writing editor that shows grammar, clarity, and style suggestions as tracked changes you accept or reject.
 
 ## Formatting & Export
 
