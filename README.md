@@ -15,8 +15,6 @@ Tools that help indie authors research niches, draft and rewrite manuscripts, fo
 - [Covers, Titles & Listing Assets](#covers-titles--listing-assets)
 - [Distribution & Reader Delivery](#distribution--reader-delivery)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Writing & Publishing Suites
 
@@ -112,7 +110,3 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to KDP / self-publishing authors, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
