@@ -73,6 +73,7 @@ Visual and copy tools for covers, titles, blurbs, and listing graphics.
 - [BookBrush](https://bookbrush.com/) - Author-focused graphics studio for 3D covers, mockups, and promo images.
 - [Placeit](https://placeit.net/) - Mockup generator for showing a cover on phones, tablets, and printed books in ads.
 - [CoverNice](https://covernice.com/) - KDP cover calculator and wrap builder: spine width, full wrap size and 300 dpi pixel dimensions from trim size, page count and paper stock, with print-ready PDF export.
+- [Reletter](https://aiedittextinimage.com/) - Correct existing title lettering in raster covers or promotional graphics, with a free watermarked preview.
 
 ## Distribution & Reader Delivery
 
