@@ -111,3 +111,5 @@ General-purpose models authors use for blurbs, keyword brainstorming, and revisi
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to KDP / self-publishing authors, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.
